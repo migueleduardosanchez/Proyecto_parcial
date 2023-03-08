@@ -37,7 +37,7 @@ De esta forma, se mostrara en pantalla las metofologias tradicionales:
 	2. Espiral
 	3. Modelo V
 
-Posteriormente al observar cada menu, tenemos la opcion de seleccionar uno de los temas del manu, para
+Posteriormente al observar cada menu, tenemos la opcion de seleccionar uno de los temas del menu, para
 posteriormente se muestre el siguiente menu:
 	Usted esta en la seccion {nombre de la seccion}, seleccione la opcion que desea utilizar
 	1. Agregar informacion
