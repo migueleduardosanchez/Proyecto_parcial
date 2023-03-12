@@ -1,11 +1,12 @@
 # PROYECTO DEL PRIMER PARCIAL
 
-**Este proyecto es una aplicación para aprender acerca de diferentes metodologias de desarrollo ágil de**
+**Este proyecto es una aplicación para aprender acerca de diferentes metodologias de**
+**desarrollo ágil de**
 **software**
 
 - *Miguel Eduardo Sánchez González (324795)*
 - *Jose Ricardo Avila Chavez (345635)*
-- *Sebastian Meza ANdrade (339079)*
+- *Sebastian Meza Andrade (339079)*
 
 ## Pre-requisitos
 
@@ -38,8 +39,9 @@ De esta forma, se mostrara en pantalla las metofologias tradicionales:
 2. Espiral
 3. Modelo V
 
-Posteriormente al observar cada menu, tenemos la opcion de seleccionar uno de los temas del menu, para
-posteriormente se muestre el siguiente menu:
+Posteriormente al observar cada menu, tenemos la opcion de seleccionar uno de los temas del
+menu, paraposteriormente se muestre el siguiente menu:
+
 Usted esta en la seccion {nombre de la seccion}, seleccione la opcion que desea utilizar
 1. Agregar informacion
 2. Buscar
@@ -51,4 +53,6 @@ La idea de este sub menu es almacenar informacion en archivos con extencion .inf
 + Al agregar informacion se solicita el concepto y la definicion.
 + Al ejecutar la opcion buscar, se solicita el elemento a buscar dentro del archivo
 + Al eliminar informacion se solicita el concepto
-+ Al 
++ Al seleccionar leer la base de informacion, imprime en pantalla el contenido del archivo
++ Al terminar la ejecucion de un comando, pide una siguiente opcion, volver al manu anterior
+  o terminar la ejecucion
