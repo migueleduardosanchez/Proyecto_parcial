@@ -42,7 +42,7 @@ De esta forma, se mostrara en pantalla las metofologias tradicionales:
 Posteriormente al observar cada menu, tenemos la opcion de seleccionar uno de los temas del
 menu, paraposteriormente se muestre el siguiente menu:
 
-Usted esta en la seccion {nombre de la seccion}, seleccione la opcion que desea utilizar
+Usted esta en la seccion {numero de la seccion}, seleccione la opcion que desea utilizar
 1. Agregar informacion
 2. Buscar
 3. Eliminar informacion
