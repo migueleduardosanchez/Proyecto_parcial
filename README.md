@@ -13,7 +13,7 @@ Github: https://github.com/migueleduardosanchez/Proyecto_parcial.git
 
 GitLab: https://gitlab.com/c-basstian/Proyecto_parcial
  
-BitBucket:
+BitBucket: https://bitbucket.org/dbpdemo/proyecto_parcial/src/main/
 
 ## Pre-requisitos
 
