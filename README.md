@@ -8,9 +8,11 @@
 - *Jose Ricardo Avila Chavez (345635)*
 - *Sebastian Meza Andrade (339079)*
 
-##Links de los repositorios
+## Links de los repositorios
 Github: https://github.com/migueleduardosanchez/Proyecto_parcial.git
-GitLab: https://gitlab.com/c-basstian/Proyecto_parcial 
+
+GitLab: https://gitlab.com/c-basstian/Proyecto_parcial
+ 
 BitBucket:
 
 ## Pre-requisitos
