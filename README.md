@@ -15,6 +15,8 @@ GitLab: https://gitlab.com/c-basstian/Proyecto_parcial
  
 BitBucket: https://bitbucket.org/dbpdemo/proyecto_parcial/src/main/
 
+Dockerhub: https://hub.docker.com/repository/docker/migueleduardosanchez/proyecto/general
+
 ## Pre-requisitos
 
 Descargar el archivo <sub>metodologias.sh</sub> 
